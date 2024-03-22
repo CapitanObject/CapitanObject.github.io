@@ -1,0 +1,10 @@
+.container{
+    display:flex;
+}
+
+.box{
+    height: 100px;
+    width: 30%;
+    background-color: aqua;
+    border: black medium solid
+}
